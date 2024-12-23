@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\spase\\source\\repos\\MRPZ3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{269C8067-F6B6-4B0E-86E6-3A85BB73AC36}|..\\MRPZ3Tests\\MRPZ3Tests.csproj|c:\\users\\spase\\source\\repos\\mrpz3tests\\routetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\spase\\source\\repos\\mrpz3\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\spase\\source\\repos\\mrpz3\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269C8067-F6B6-4B0E-86E6-3A85BB73AC36}|..\\MRPZ3Tests\\MRPZ3Tests.csproj|c:\\users\\spase\\source\\repos\\mrpz3tests\\tgtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\spase\\source\\repos\\mrpz3\\travelgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:travelgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\spase\\source\\repos\\mrpz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteTests.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\RouteTests.cs",
+              "RelativeDocumentMoniker": "..\\MRPZ3Tests\\RouteTests.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\RouteTests.cs*",
+              "RelativeToolTip": "..\\MRPZ3Tests\\RouteTests.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:42:05.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Route.cs",
+              "RelativeDocumentMoniker": "Route.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Route.cs",
+              "RelativeToolTip": "Route.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:01:12.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Participant.cs",
+              "RelativeDocumentMoniker": "Participant.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Participant.cs",
+              "RelativeToolTip": "Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:11:05.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TravelGroup.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3\\TravelGroup.cs",
+              "RelativeDocumentMoniker": "TravelGroup.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3\\TravelGroup.cs",
+              "RelativeToolTip": "TravelGroup.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:10:43.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TGTests.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TGTests.cs",
+              "RelativeDocumentMoniker": "..\\MRPZ3Tests\\TGTests.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TGTests.cs",
+              "RelativeToolTip": "..\\MRPZ3Tests\\TGTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:09:43.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:09:04.69Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
