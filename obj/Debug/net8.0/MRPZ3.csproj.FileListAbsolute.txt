@@ -1,4 +1,3 @@
-C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\MRPZ3.exe
 C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\MRPZ3.deps.json
 C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\MRPZ3.runtimeconfig.json
 C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\MRPZ3.dll
@@ -95,3 +94,4 @@ C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatfor
 C:\Users\spase\source\repos\MRPZ3\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\spase\source\repos\MRPZ3\obj\Debug\net8.0\MRPZ3.csproj.AssemblyReference.cache
 C:\Users\spase\source\repos\MRPZ3\obj\Debug\net8.0\MRPZ3.csproj.Up2Date
+C:\Users\spase\source\repos\MRPZ3\obj\Debug\net8.0\MRPZ3.sourcelink.json
