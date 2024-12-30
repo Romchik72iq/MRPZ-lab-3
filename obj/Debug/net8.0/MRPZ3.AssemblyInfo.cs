@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MRPZ3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75229a1fa5d18a228ccf95b63ab627ccffe9005e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51dd5edc4187735380a2ea48f4dc78d5e96a1cb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MRPZ3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MRPZ3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
