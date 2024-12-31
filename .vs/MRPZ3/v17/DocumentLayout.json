@@ -10,15 +10,19 @@
       "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\mrpz3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:mrpz3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\source\\repos\\MRPZ4consol\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\mrpz3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:mrpz3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\travelgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,16 +31,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|c:\\users\\38095\\source\\repos\\\u0441\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u043C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\mrpz3\\mrpz3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{68F490FB-80A4-4CFE-A521-360565F278DE}|MRPZ3.csproj|solutionrelative:mrpz3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\source\\repos\\MRPZ4DA\\MRPZ4DA.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TravelGroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\RouteTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,16 +54,12 @@
               "Title": "EventRouteTests.cs",
               "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3Tests\\EventRouteTests.cs",
               "RelativeDocumentMoniker": "..\\MRPZ3Tests\\EventRouteTests.cs",
-              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3Tests\\EventRouteTests.cs",
-              "RelativeToolTip": "..\\MRPZ3Tests\\EventRouteTests.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3Tests\\EventRouteTests.cs*",
+              "RelativeToolTip": "..\\MRPZ3Tests\\EventRouteTests.cs*",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T15:06:00.321Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -79,82 +69,14 @@
               "RelativeDocumentMoniker": "Route.cs",
               "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Route.cs",
               "RelativeToolTip": "Route.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwDoAAAAMAAAAAAAAAA==",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wA8AAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T18:01:12.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TravelGroup.cs",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TravelGroup.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ3Tests\\TravelGroup.cs",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TravelGroup.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ3Tests\\TravelGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T14:10:01.659Z"
+              "WhenOpened": "2024-12-09T18:01:12.156Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MRPZ4DA.csproj",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ4DA\\MRPZ4DA.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4DA\\MRPZ4DA.csproj",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ4DA\\MRPZ4DA.csproj",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4DA\\MRPZ4DA.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-28T19:30:54.297Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MRPZ3.csproj",
-              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
-              "RelativeDocumentMoniker": "MRPZ3.csproj",
-              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
-              "RelativeToolTip": "MRPZ3.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-28T19:27:08.597Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
-              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T15:08:11.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MRPZ3",
-              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
-              "RelativeDocumentMoniker": "MRPZ3.csproj",
-              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
-              "RelativeToolTip": "MRPZ3.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-26T14:59:43.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Event.cs",
-              "RelativeDocumentMoniker": "Event.cs",
-              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Event.cs",
-              "RelativeToolTip": "Event.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T20:51:37.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "RouteTests.cs",
               "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\RouteTests.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ3Tests\\RouteTests.cs",
@@ -166,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Participant.cs",
               "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Participant.cs",
               "RelativeDocumentMoniker": "Participant.cs",
@@ -178,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TravelGroup.cs",
               "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\TravelGroup.cs",
               "RelativeDocumentMoniker": "TravelGroup.cs",
@@ -190,7 +112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "TGTests.cs",
               "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ3Tests\\TGTests.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ3Tests\\TGTests.cs",
@@ -199,6 +121,56 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T17:09:43.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:54:12.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
+              "ToolTip": "C:\\Users\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\spase\\source\\repos\\MRPZ4consol\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T15:08:11.339Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MRPZ3",
+              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
+              "RelativeDocumentMoniker": "MRPZ3.csproj",
+              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\MRPZ3.csproj",
+              "RelativeToolTip": "MRPZ3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-26T14:59:43.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Event.cs",
+              "RelativeDocumentMoniker": "Event.cs",
+              "ToolTip": "C:\\Users\\38095\\source\\repos\\\u0421\u0435\u0440\u0431\u0435\u043D\u0456\u0432\u0441\u044C\u043A\u0438\u0439_\u041C\u0438\u0440\u043E\u043D \u043B\u0430\u0431 3\\MRPZ3\\Event.cs",
+              "RelativeToolTip": "Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T20:51:37.959Z"
             }
           ]
         }

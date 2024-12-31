@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
+            },
             "xunit": {
               "target": "Package",
               "version": "[2.5.3, )"
